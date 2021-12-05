@@ -1,4 +1,4 @@
-# Homework2 9
+# Homework2
 
 ## 2-1
 
